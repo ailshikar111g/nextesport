@@ -1,10 +1,1 @@
-[
-  {
-    "name": "program",
-    "email": "prr@gmail.com",
-    "password": "123456",
-    "code": "236630",
-    "avatar": "avatars/236630.png",
-    "createdAt": "2026-09-18T18:53:35.564"
-  }
-]
+[{"name":"program","email":"prr@gmail.com","password":"123456","code":"236630","avatar":"avatars/236630.png","createdAt":"2026-09-18T18:53:35.564"},{"name":"المطور","email":"program@gmail.com","password":"12344321","code":"766996","avatar":null,"createdAt":"2026-09-19T17:11:55.093"}]
