@@ -1,1 +1,15 @@
-[{"name":"هه","email":"a@gemail.com","password":"123456"},{"name":"قف","email":"a@gmail.com","password":"1234567","avatar":"avatars/null.png"},{"name":"program","email":"prr@gmail.com","password":"123456","code":"236630","avatar":"avatars/236630.png","createdAt":"2026-09-18T18:53:35.564"}]
+[
+  {
+    "name": "هه",
+    "email": "a@gemail.com",
+    "password": "123456"
+  },
+  {
+    "name": "program",
+    "email": "prr@gmail.com",
+    "password": "123456",
+    "code": "236630",
+    "avatar": "avatars/236630.png",
+    "createdAt": "2026-09-18T18:53:35.564"
+  }
+]
