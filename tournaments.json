@@ -10,7 +10,7 @@
     "endDate": "2026-09-23T01:18",
     "maxPlayers": 192,
     "maxSquads": 0,
-    "currentPlayers": 191,
+    "currentPlayers": 192,
     "participants": [
       "Bot_001@bot.nextesport",
       "Bot_002@bot.nextesport",
@@ -202,7 +202,8 @@
       "Bot_188@bot.nextesport",
       "Bot_189@bot.nextesport",
       "Bot_190@bot.nextesport",
-      "Bot_191@bot.nextesport"
+      "Bot_191@bot.nextesport",
+      "Bot_192@bot.nextesport"
     ],
     "likes": [],
     "rooms": [],
