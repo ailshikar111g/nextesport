@@ -1,17 +1,5 @@
 [
   {
-    "id": "n_1790026553895_fmgvo",
-    "type": "info",
-    "title": "اهلاا",
-    "body": "اهلا بك",
-    "roomId": null,
-    "roomPass": null,
-    "tournamentId": null,
-    "targetEmails": [],
-    "targetEmail": "aaa@gmail.com",
-    "createdAt": "2026-09-21T21:35:53.895Z"
-  },
-  {
     "id": "n_1790029445268",
     "type": "join_request",
     "title": "🔔 طلب انضمام لفريقك",
