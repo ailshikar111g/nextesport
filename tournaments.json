@@ -15,18 +15,7 @@
       "aaa@gmail.com"
     ],
     "likes": [],
-    "rooms": [
-      {
-        "name": "المجموعة 1",
-        "players": [
-          "aaa@gmail.com"
-        ],
-        "qualified": [],
-        "matchTime": null,
-        "roomId": null,
-        "roomPass": null
-      }
-    ],
+    "rooms": [],
     "streamUrl": null,
     "registrationClosed": false,
     "createdAt": "2026-09-22T23:23:33.948Z"
