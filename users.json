@@ -1,1 +1,18 @@
-[{"name":"program","email":"prr@gmail.com","password":"123456","code":"236630","avatar":"avatars/236630.png","createdAt":"2026-09-18T18:53:35.564"},{"name":"عع","email":"aaa@gmail.com","password":"234561","code":"217544","avatar":null,"createdAt":"2026-09-22T00:18:10.785547"},{"name":"المطور","email":"ax@gmail.com","password":"qwerty","code":"889458","avatar":null,"createdAt":"2026-09-25T15:44:07.699966"}]
+[
+  {
+    "name": "عع",
+    "email": "aaa@gmail.com",
+    "password": "234561",
+    "code": "217544",
+    "avatar": null,
+    "createdAt": "2026-09-22T00:18:10.785547"
+  },
+  {
+    "name": "المطور",
+    "email": "ax@gmail.com",
+    "password": "qwerty",
+    "code": "889458",
+    "avatar": null,
+    "createdAt": "2026-09-25T15:44:07.699966"
+  }
+]
