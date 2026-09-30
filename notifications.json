@@ -1,12 +1,1 @@
-[
-  {
-    "id": "n_1790029445268",
-    "type": "join_request",
-    "title": "🔔 طلب انضمام لفريقك",
-    "body": "عع (كود: 217544) يطلب الانضمام لفريق \"تاكل\"",
-    "targetEmail": "ة@لةشهموؤخة",
-    "teamId": "team_1789945958253",
-    "requesterEmail": "aaa@gmail.com",
-    "createdAt": "2026-09-22T01:24:05.268442"
-  }
-]
+[{"id":"n_1790029445268","type":"join_request","title":"🔔 طلب انضمام لفريقك","body":"عع (كود: 217544) يطلب الانضمام لفريق \"تاكل\"","targetEmail":"ة@لةشهموؤخة","teamId":"team_1789945958253","requesterEmail":"aaa@gmail.com","createdAt":"2026-09-22T01:24:05.268442"},{"id":"n_1790805048451","type":"join_request","title":"🔔 طلب انضمام لفريقك","body":"ᴬᵇᵘㅤᶠᵃˡᵃʰツ (كود: 470291) يطلب الانضمام لفريق \"المطور\"","targetEmail":"A@gmail.com","teamId":"team_1790804886968","requesterEmail":"@JSAutoReactionBot","createdAt":"2026-10-01T00:50:48.451799"}]
