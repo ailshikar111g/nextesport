@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "t_1791039149932_meisp",
+    "game": "freefire",
+    "gameName": "فري فاير",
+    "name": "1",
+    "type": "solo",
+    "prize": 100,
+    "startDate": "2026-10-04T17:52",
+    "endDate": "2026-10-06T17:52",
+    "maxPlayers": 96,
+    "maxSquads": 0,
+    "currentPlayers": 0,
+    "participants": [],
+    "likes": [],
+    "rooms": [],
+    "streamUrl": null,
+    "registrationClosed": false,
+    "createdAt": "2026-10-03T14:52:29.932Z"
+  }
+]
