@@ -1,18 +1,1 @@
-[
-  {
-    "name": "المالك",
-    "email": "A@gmail.com",
-    "password": "123456",
-    "code": "268132",
-    "avatar": null,
-    "createdAt": "2026-09-30T18:26:38.607935"
-  },
-  {
-    "name": "ᴬᵇᵘㅤᶠᵃˡᵃʰツ",
-    "email": "@JSAutoReactionBot",
-    "password": "252525",
-    "code": "470291",
-    "avatar": "avatars/470291.png",
-    "createdAt": "2026-10-01T00:48:17.812463"
-  }
-]
+[{"name":"المالك","email":"A@gmail.com","password":"123456","code":"268132","avatar":null,"createdAt":"2026-09-30T18:26:38.607935"},{"name":"ᴬᵇᵘㅤᶠᵃˡᵃʰツ","email":"@JSAutoReactionBot","password":"252525","code":"470291","avatar":"avatars/470291.png","createdAt":"2026-10-01T00:48:17.812463"},{"name":"خالد محمد","email":"muradotom@gmail.com","password":"123456789","code":"832291","avatar":null,"createdAt":"2026-10-04T00:17:36.372915"}]
